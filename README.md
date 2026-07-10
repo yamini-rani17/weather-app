@@ -7,7 +7,7 @@ It allows users to search any city and get real-time weather data.
 
 ## 🚀 Live Demo
 
-👉 https://vercel.com/yamini-rani17s-projects/weather-app
+👉 weather-app-weld-zeta-74.vercel.app
 
 ---
 
