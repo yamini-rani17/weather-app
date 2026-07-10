@@ -1,16 +1,55 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive **Weather App** built using **React + Vite + Tailwind CSS**.  
+It allows users to search any city and get real-time weather data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://vercel.com/yamini-rani17s-projects/weather-app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+![App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App)
+
+---
+
+## ✨ Features
+
+- 🔍 Search cities using dropdown (react-select)
+- 🌦️ Real-time weather data (OpenWeather API)
+- 🌡️ Temperature display (°C)
+- 💧 Humidity info
+- 💨 Wind speed
+- 🌄 Beautiful background image
+- 🧊 Glassmorphism UI (modern look)
+- ⚡ Fast & responsive
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- React Select
+- OpenWeather API
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/weather-app.git
+
+# Go to folder
+cd weather-app
+
+# Install dependencies
+npm install
+
+# Run project
+npm run dev
