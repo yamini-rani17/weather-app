@@ -13,8 +13,8 @@ It allows users to search any city and get real-time weather data.
 
 ## 📸 Screenshot
 
-![Screenshot](screenshots/home.PNG)
-![Screenshot](screenshots/search.PNG)
+![Screenshot](screenshots/home.png)
+![Screenshot](screenshots/search.png)
 ![Screenshot](screenshots/weather.PNG)
 
 ---
