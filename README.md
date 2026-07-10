@@ -13,7 +13,9 @@ It allows users to search any city and get real-time weather data.
 
 ## 📸 Screenshot
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App)
+![Screenshot](screenshots/home.PNG)
+![Screenshot](screenshots/search.PNG)
+![Screenshot](screenshots/weather.PNG)
 
 ---
 
