@@ -8,7 +8,6 @@ It allows users to search any city and get real-time weather data.
 ## 🚀 Live Demo
 
 👉 weather-app-weld-zeta-74.vercel.app
-
 ---
 
 ## 📸 Screenshot
